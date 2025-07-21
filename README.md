@@ -1,0 +1,1 @@
+# VASPtool_VCDD-smooth
